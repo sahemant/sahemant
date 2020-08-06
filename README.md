@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  🔭 I’m currently working on Big Data using spark.
+ <br/>
  🌱 I’m currently learning Scala and Spark
+ <br/>
  💬 Ask me about Space :-p
