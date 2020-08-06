@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 🔭 I’m currently working on Big Data using spark.
+ 🌱 I’m currently learning Scala and Spark
+ 💬 Ask me about Space :-p
